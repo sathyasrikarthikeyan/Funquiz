@@ -26,7 +26,7 @@ Clone the repository:
 bash
 Run
 Copy code
-git clone https://github.com/yourusername/fun-quiz-app.git
+git clone https://github.com/sathyasrikarthikeyan/Funquiz.git
 Go to the project directory:
 
 bash
